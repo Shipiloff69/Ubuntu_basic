@@ -3,4 +3,4 @@ scr1.sh (перший варінат, без поліпшень) </p>
 scr2.sh (отпимізація, php, apache, логування) </p>
 
 <code> wget https://raw.githubusercontent.com/Shipiloff69/Ubuntu_basic/refs/heads/main/scr**X**.sh </code> </p>
-Запускати через <code> bash scr**X**.sh </code>
+Запускати через  </p> <code> bash scr**X**.sh </code>
